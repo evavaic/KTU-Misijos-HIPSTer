@@ -22,3 +22,23 @@ To safely delete the cloned repository and all its contents:
 ```bash
 rm -rf KTU-Misijos-HIPSTer
 ```
+
+# 📄 Citation
+
+If you use this code or LT data in your research, please cite:
+
+```text
+@article{hipster2026,
+  author    = {Vaičiukynas, Evaldas and Danėnas, Paulius and Ablonskis, Linas and Šukys, Algirdas and Dambrauskas, Edgaras and Žitkus, Voldemaras and Butkienė, Rita and Butleris, Rimantas},
+  title     = {Comparison of Modern Multilingual Text Embedding Techniques for Hate Speech Detection Task},
+  journal   = {Applied Sciences},
+  year      = {2026},
+  volume    = {16},
+  number    = {10},
+  pages     = {5099},
+  publisher = {MDPI},
+  ISSN      = {2076-3417},
+  doi       = {10.3390/app16105099},
+  url       = {https://www.mdpi.com/2076-3417/16/10/5099}
+}
+```
